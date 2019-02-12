@@ -10,4 +10,4 @@ let obj ={
 }
 console.log(obj.c.r.q)
 delete obj.c.r.q ;
-console.log(obj.c.r.q)
+console.log(obj.c.r.q)     
